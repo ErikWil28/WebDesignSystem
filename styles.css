@@ -1,0 +1,59 @@
+.header {
+    text-align: center;
+    font-size: 40px ;
+    font-family: "Raleway";
+    font-style: italic;
+}
+
+.color-box {
+    border: 1px solid black;
+    overflow: hidden;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.titles {
+    font-size: 35px;
+    padding: 10px;
+}
+
+.color-box-1 {
+    border: 1px solid black;
+    background-color: darkred;
+    min-width: 200px;
+    min-height: 50px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    float: left;
+    width: 33%;
+
+}
+
+.color-box-2 {
+    border: 1px solid black;
+    background-color: green;
+    min-width: 200px;
+    min-height: 50px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    float: left;
+    width: 33%}
+
+.color-box-3 {
+    border: 1px solid black;
+    background-color: darkblue;
+    min-width: 200px;
+    min-height: 50px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    float: left;
+    width: 33%;
+}
+
