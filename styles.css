@@ -63,23 +63,23 @@
     border: 1px solid black;
     overflow: hidden;
     margin: 10px;
-    padding: 0px;
+    padding: 10px;
     
 
 }
 
-.text-box-1 {
+.text-box {
     min-width: 200px;
     min-height: 50px;
     text-align: center;
     padding: 10px;
-    margin: 10px;
+    margin: 10px 30px;
     float: left;
-    width: 33%;
+    max-width: 100%;
 
 }
 
-.text-box-2 {
+/*.text-box-2 {
     min-width: 200px;
     min-height: 50px;
     text-align: center;
@@ -88,7 +88,7 @@
     float: left;
     width: 33%}
 
-.text-box-3 {
+  .text-box-3 {
     min-width: 200px;
     min-height: 50px;
     text-align: center;
@@ -96,7 +96,7 @@
     margin: 10px;
     float: left;
     width: 33%;
-}
+}*/
 
 .raleway-title{
     font-family: 'raleway';
@@ -147,6 +147,7 @@
 .source-sans-pro-title{
     font-family: 'source sans pro';
     font-size: 30px;
+    text-decoration: underline;
 }
 
 .source-sans-pro-normal{
@@ -177,13 +178,13 @@
 
 h1 {
     font-weight: bold;
-    font-size: 30px;
+    font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
     font-weight: 600;
-    font-size: 20px;
+    font-size: 30px;
     font-family: 'raleway';
 }
 
