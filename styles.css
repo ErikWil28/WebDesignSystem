@@ -57,3 +57,107 @@
     width: 33%;
 }
 
+.base-box {
+    border: 1px solid black;
+    overflow: hidden;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+.text-box-1 {
+    min-width: 200px;
+    min-height: 50px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    width: 33%;
+
+}
+
+.text-box-2 {
+    min-width: 200px;
+    min-height: 50px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    width: 33%}
+
+.text-box-3 {
+    min-width: 200px;
+    min-height: 50px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    width: 33%;
+}
+
+.raleway-title{
+    font-family: 'raleway';
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.raleway-normal{
+    font-family: 'raleway';
+    font-size: 20px;
+}
+
+.raleway-italic{
+    font-family: 'raleway';
+    font-size: 20px;
+    font-style: italic;
+}
+
+.raleway-bold{
+    font-family: 'raleway';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.roboto-title{
+    font-family: 'roboto';
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.roboto-normal{
+    font-family: 'roboto';
+    font-size: 20px;
+}
+
+.roboto-italic{
+    font-family: 'roboto';
+    font-size: 20px;
+    font-style: italic;
+}
+
+.roboto-bold{
+    font-family: 'roboto';
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.source-sans-pro-title{
+    font-family: 'source sans pro';
+    font-size: 30px;
+}
+
+.source-sans-pro-normal{
+    font-family: 'source sans pro';
+    font-size: 20px;
+}
+
+.source-sans-pro-italic{
+    font-family: 'source sans pro';
+    font-size: 20px;
+    font-style: italic;
+}
+
+.source-sans-pro-bold{
+    font-family: 'source sans pro';
+    font-size: 20px;
+    font-weight: bold;
